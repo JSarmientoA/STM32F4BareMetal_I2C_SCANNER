@@ -1,0 +1,7 @@
+I2c.c:10:6:I2c_int	1
+I2c.c:112:6:I2c_Start	2
+I2c.c:125:6:I2c_Write	3
+I2c.c:136:6:I2c_Address	2
+I2c.c:146:6:I2c_Stop	1
+I2c.c:151:6:I2c_WriteMultiByte	5
+I2c.c:163:6:I2c_Read	9
